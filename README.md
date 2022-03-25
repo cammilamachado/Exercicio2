@@ -5,5 +5,5 @@ Este é um repositório contendo uma tarefa que consiste na criação de um prog
 1. Criar uma tabela X no SGBDR PostgreSQL;
 2. Criar uma classe X em Java;
 3. Criar uma classe DAO para manipular a classe X;
-4. Criam uma classe Principal contendo um menu com as opções Listar, Inserir, Excluir, Atualizar e Sair para acessar as funções CRUD da DAO;
+4. Criam uma classe Principal contendo um menu com as opções Listar, Inserir, Excluir, Atualizar e Sair para acessar as funções CRUD da DAO.
 
